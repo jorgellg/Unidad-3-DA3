@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Orders</string>
+    <string name="type_product_name">Type product name</string>
+    <string name="type_price_of_product">Type price of product</string>
+    <string name="add_product">Add product</string>
+    <string name="type_stock_product">Type stock product</string>
+    <string name="product_stock">Product stock</string>
+    <string name="product_price">Product price</string>
+    <string name="save_product">Save_product</string>
+    <string name="description">Description</string>
+    <string name="number">Number</string>
+    <string name="save_categories">Save categories</string>
+    <string name="category_name">Category name</string>
+    <string name="category_name1">Category Name</string>
+    <string name="description_category">Description category</string>
+    <string name="category_number">Category Number</string>
+    <string name="number1">Number</string>
+    <string name="desc">Desc.</string>
+</resources>
